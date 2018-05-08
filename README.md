@@ -1,1 +1,1 @@
-# gaussian-process-stan
+# stan models
